@@ -1,0 +1,3 @@
+npm install 
+server cors nodemon express socket.io
+client socket.io socket.io-client
